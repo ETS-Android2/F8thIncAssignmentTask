@@ -1,0 +1,21 @@
+2021-09-05 23:38:37.927 14543-14543/com.f8th_inc I/F8TH_INC: onCreate() intent:Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.f8th_inc/.MainActivity }
+2021-09-05 23:38:37.927 14543-14543/com.f8th_inc I/F8TH_INC: onCreate(),action:android.intent.action.MAIN,putInFG:false
+2021-09-05 23:38:37.944 14543-14543/com.f8th_inc I/F8TH_INC: sentAppToBackground:true
+2021-09-05 23:38:43.938 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[-1]
+2021-09-05 23:38:43.941 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[-1, 0]
+2021-09-05 23:38:44.153 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[-1, 0, -1]
+2021-09-05 23:38:44.155 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[-1, 0, -1, 0]
+2021-09-05 23:38:44.369 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[-1, 0, -1, 0, -1]
+2021-09-05 23:38:44.374 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[-1, 0, -1, 0, -1, 0]
+2021-09-05 23:38:44.389 14543-14543/com.f8th_inc I/F8TH_INC: Calling startActivity(intent);
+2021-09-05 23:38:44.445 14543-14543/com.f8th_inc I/F8TH_INC: onCreate() intent:Intent { act=ACTION_PUT_IN_BG_FG flg=0x10400000 cmp=com.f8th_inc/.MainActivity (has extras) }
+2021-09-05 23:38:44.446 14543-14543/com.f8th_inc I/F8TH_INC: onCreate(),action:ACTION_PUT_IN_BG_FG,putInFG:true
+2021-09-05 23:38:54.126 14543-14543/com.f8th_inc I/F8TH_INC: onKeyDown(),KEYCODE_VOLUME_DOWN,mVolumeList:[0]
+2021-09-05 23:38:54.132 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[0]
+2021-09-05 23:38:54.376 14543-14543/com.f8th_inc I/F8TH_INC: onKeyDown(),KEYCODE_VOLUME_DOWN,mVolumeList:[0, 1]
+2021-09-05 23:38:54.380 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[0, 0]
+2021-09-05 23:38:54.592 14543-14543/com.f8th_inc I/F8TH_INC: onKeyDown(),KEYCODE_VOLUME_DOWN,mVolumeList:[0, 1, 2]
+2021-09-05 23:38:54.609 14543-14543/com.f8th_inc I/F8TH_INC: sentAppToBackground:true
+2021-09-05 23:38:54.613 14543-14543/com.f8th_inc I/F8TH_INC: onAdjustVolume(),[0, 0, 0]
+
+
